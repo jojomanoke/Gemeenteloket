@@ -9,17 +9,17 @@
 
 	</div>
 			<div>
-				<h1>Contact us</h1>
+				<h1>Neem contact op</h1>
 				<img src="images/map.png" alt="">
-				<h2>ADDRESS</h2>
+				<h2>ADDRES</h2>
 				<p>Espelerlaan 74<br>
 					Emmeloord</p>
 				<h2>NUMBERS</h2>
-				<a href="index.html">+123456789 or +123456789</a>
+				<a href="?page=index.php">+123456789 or +123456789</a>
 				<h2>Email</h2>
-				<a href="index.html">info@rnrnr.com</a>
-				<h4>JOIN RNRNR NOW</h4>
-				<form action="?page=../index.php">
+				<a href="?page=index.php">info@rnrnr.com</a>
+				<h4>Vul de gegevens in en u krijgt automatisch een mail ter bevestiging.</h4>
+				<form action="?page=index.php">
 					<input type="text" name="name" placeholder="Naam">
 					<input type="text" name="Address" placeholder="Adres">
 					<input type="text" name="Email" placeholder="E-Mail">

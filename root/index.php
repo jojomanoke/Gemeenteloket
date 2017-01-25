@@ -26,6 +26,26 @@ if (!empty($_GET['page'])) {
     case 'inc/bedankt.php';
     include ('inc/bedankt.php');
     break;
+
+    case 'inc/kapvergunning.php';
+    include ('inc/kapvergunning.php');
+    break;
+
+    case 'inc/bedankt.php';
+    include ('inc/bedankt.php');
+    break;
+
+    case 'inc/bedankt.php';
+    include ('inc/bedankt.php');
+    break;
+
+    case 'inc/bedankt.php';
+    include ('inc/bedankt.php');
+    break;
+
+    case 'inc/bedankt.php';
+    include ('inc/bedankt.php');
+    break;
   }
 }
 else {
